@@ -14,6 +14,5 @@ public class DisplayTime {
         int remainingSeconds = Seconds % 60;
 
         System.out.println(Seconds +" seconds is " + minutes + " minutes is " + remainingSeconds + " seconds");
-
     }
 }
