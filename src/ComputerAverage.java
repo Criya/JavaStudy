@@ -1,7 +1,7 @@
 /**
  * Created by liangjiahao on 2017/2/21.
  */
-//计算三个数的平均值
+// 计算三个数的平均值
 import java.util.Scanner;
 public class ComputerAverage {
     public static void main(String args[]){
