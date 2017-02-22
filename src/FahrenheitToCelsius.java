@@ -11,7 +11,6 @@ public class FahrenheitToCelsius {
         Double Fahrenheit = imput.nextDouble();
 
         Double Celsius = (5.0 / 9) * (Fahrenheit - 32);
-
         System.out.println("Fahrenheit " + Fahrenheit + " is " + Celsius + " in Celsius");
     }
 }
